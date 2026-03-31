@@ -15,7 +15,7 @@ Note: This is *not* an April Fools guide. Just because it was released on April 
 
 “What the fuck do sandwhiches have to do with deco??? why is this in the advanced deco section????” you may be thinking. I’d normally say “I ain’t reading allat”, but I’ll be nice and respond properly. Like most deco, a sandwich consists of *objects*. It consists of bread, and whatever you want to put inside. And more bread.
 
-Before we start, I’d like to note 1 thing: a hot dog is NOT a sandwich. A hot dog is a taco. Calling a hot dog a taco sounds wrong. But it sure as hell ain’t a sandwich. This guide automatically traces your IP address when you first visit this site. I know where you live. Do not call a hot dog a sandwich.
+Before we start, I’d like to note 1 thing: a hot dog is NOT a sandwich. A hot dog is a taco.[^1] Calling a hot dog a taco sounds wrong. But it sure as hell ain’t a sandwich. This guide automatically traces your IP address when you first visit this site. I know where you live. Do not call a hot dog a sandwich.
 
 # 2. Bread
 
@@ -277,7 +277,6 @@ Cucumber 
 
 
 
-
 Expect the “Makin a sandwich” exercise releasing soon
 
 # Credits
@@ -326,9 +325,9 @@ Expect the “Makin a sandwich” exercise releasing soon
 18. XD < I saved this guide 2: electric boogaloo
 
     {{< img src="undefined" >}}
-19. Issimo for an AMAZING reason 
+19. Issimo for an AMAZING reason
 
-67.  Miauurre mrrwww mrrprp nyah :333 ahhh ha ha ha ha haaaaaaa says emi the auraful one 
+‎ 67. Miauurre mrrwww mrrprp nyah :333 ahhh ha ha ha ha haaaaaaa says emi the auraful one 
 
 # Authors’ Notes:
 
@@ -353,3 +352,4 @@ Apologies, I couldn't help some sunfish slander.
 Decently affable spud, signing out.
 
 ###### The overseers say hi 👋
+[^1]: Actually, it’s not a taco.
